@@ -215,7 +215,7 @@ Um ein Portal zu finden, sucht mit dem [Signalbooster](#signalbooster) nach Arte
 
 #### Glyphen
 
-Glyphen findet ihr in Gräbern der Reisenden (NPCs), meist versteckt in Höhlen. Diese sind jedoch sehr selten und schwierig zu finden. Schneller geht es mit Hilfe lebendiger Reisender, die ihr auf Raumstationen treffen könnt. Sprecht dazu mit einem Außerirdischen, der nicht wie eine der drei bekannten Alienrassen aussieht, und fragt diesen "_Woher kommst du?_". Diese Option kostet immer 100 [Naniten](#währungwn). Daraufhin wird euch die Position der nächsten Glyphe, auf einem Planeten im aktuellen System, angezeigt. Fliegt zum markierten Ort und interagiert dort mit dem Grab, um die Glyphe zu erhalten.
+Glyphen findet ihr in Gräbern der Reisenden (NPCs), meist versteckt in Höhlen. Diese sind jedoch sehr selten und schwierig zu finden. Schneller geht es mit Hilfe lebendiger Reisender, die ihr auf Raumstationen treffen könnt. Sprecht dazu mit einem Außerirdischen, der nicht wie eine der drei bekannten Alienrassen aussieht, und wählt die Gesprächsoption "_Fragen, woher er kommt?_". Diese kostet immer 100 [Naniten](#währungwn). Daraufhin wird euch die Position der nächsten Glyphe, auf einem Planeten im aktuellen System, angezeigt. Fliegt zum markierten Ort und interagiert dort mit dem Grab, um die Glyphe zu erhalten.
 
 ### Währungen
 
