@@ -553,7 +553,7 @@ Frachter sind riesige, interstallare Raumschiffe. Sie werden in dieselben, bekan
 
 Einen Frachter, den ihr in einer Raumschlacht rettet, bekommt ihr kostenlos, wenn ihr noch keinen besitzt.
 
-Frachter besitzen ein Inventar, das je nach Klasse, 19 bis maximal 34 Slots umfasst. Jeder Slot fasst 1000 Rohstoffeinheiten oder 10 Objekte. Mit dem Hyperantrieb des Frachters könnt ihr jedes System besuchen. Er wird, wie bei Raumschiffen, mit Warpzellen aufgeladen. Anders als bei eurem Schiff, erlaubt euch eine Aufladung, mit einer Warpzelle, fünf mal zu warpen. Um in ein anderes System zu reisen, geht an den runden Tisch, beim Kapitän. Dort könnt ihr auch Missionen und [Flottenaufträge](#flotte-und-flottenaufträge) annehmen.
+Frachter besitzen ein Inventar, das je nach Klasse, 15 bis maximal 34 Slots umfasst. Jeder Slot fasst 1000 Rohstoffeinheiten oder 10 Objekte. Mit dem Hyperantrieb des Frachters könnt ihr jedes System besuchen. Er wird, wie bei Raumschiffen, mit Warpzellen aufgeladen. Anders als bei eurem Schiff, erlaubt euch eine Aufladung, mit einer Warpzelle, fünf mal zu warpen. Um in ein anderes System zu reisen, geht an den runden Tisch, beim Kapitän. Dort könnt ihr auch Missionen und [Flottenaufträge](#flotte-und-flottenaufträge) annehmen.
 
 [↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis "zum Inhaltsverzeichnis")
 
