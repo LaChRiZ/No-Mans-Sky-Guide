@@ -253,12 +253,12 @@ Technologien und Upgrades können auch im Standardinventar installiert werden.
 Inventar | Anzahl Rohstoffeinheiten je Slot | Anzahl Produkte je Slot | Techologie installierbar? | Max. Anzahl Slots
 ---------|----------------------------------|-------------------------|---------------------------|------------------
 Standardinventar | 250 Einheiten | 5 Stück | Ja | 48 Slots
-erweitertes Inventar | 500 Einheiten | 5 Stück | Nein | 25 Slots
-Technologie-Inventar | *keine* | *keine* | Ja | 12 Slots
+erweitertes Inventar | 500 Einheiten | 5 Stück | Nein | 48 Slots
+Technologie-Inventar | *keine* | *keine* | Ja | 14 Slots
 
 Zu Beginn ist das Inventar noch relativ klein. Im Standardinventar stehen 24 Plätze zur Verfügung. Weitere Plätze können an Anzug-Uprgrade-Station auf Raumstationen oder in Absprungkapseln hinzugefügt werden.
 
-Das Standardinventar lässt sich auf 48 Plätze, das erweitere Inventar auf 25 Plätze und das Technologieinventar auf 12 Plätze erweitern.
+Das Standardinventar und das erweiterte Inventar lassen sich auf 48 Plätze, das Technologieinventar auf 14 Plätze erweitern.
 
 ### Exo-Anzug-Modifikationen
 
